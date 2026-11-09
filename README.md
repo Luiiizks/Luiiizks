@@ -24,22 +24,32 @@
 
 ---
 
-### 📊 GitHub Stats
+
+<h3>📊 GitHub Stats</h3>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luiiizks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiiizks&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+    <img src="./assets/overview.light.svg" width="100%" alt="GitHub Stats">
+  </picture>
 </div>
 
-### 📈 Contribution Activity
+<h3>📈 Contribution Activity</h3>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+    <img src="./assets/contributions.light.svg" width="100%" alt="GitHub Contributions">
+  </picture>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiiizks&theme=tokyo-night&hide_border=true" />
+<h3>💻 Most Used Languages</h3>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+    <img src="./assets/languages.light.svg" width="100%" alt="Most Used Languages">
+  </picture>
 </div>
 
 ---
