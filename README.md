@@ -44,16 +44,6 @@
 
 ---
 
-### 🚀 Featured Project
-
-**SeatNow** — A web application focused on simplifying restaurant waiting lines and reservations.
-
-- Built with Next.js, TypeScript, and Firebase
-- Virtual queues and restaurant management features
-- Focused on practical problem-solving and user experience
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
